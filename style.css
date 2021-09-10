@@ -1,0 +1,39 @@
+.header{
+    background-color: black;
+}
+.navbar-style{
+    box-shadow: 0px 5px 10px gray;
+    text-transform: uppercase;
+}
+.logo{
+    height: 47px;
+}
+.buttons{
+    font-size: 12px;
+}
+#eu{
+    width: 400px;
+    border: 3px solid black;
+    box-shadow: 5px 5px 1px gray;
+}
+.icon-bar{
+    background-color: darkorange;
+}
+.big-text{
+    font-size: 52px;
+    margin: 20px;
+    color: darkorange;
+    text-shadow: blue 1px 1px 1px;
+}
+a.btn{
+    margin: 30px 10px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: darkorange;
+    border: 1px solid blue;
+    color: blue;
+}
+a.btn:hover{
+    background-color: orange;
+}
